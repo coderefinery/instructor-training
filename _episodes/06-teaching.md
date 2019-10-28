@@ -80,7 +80,7 @@ each lesson. Here are a few exercises that can be used for each lesson.
 >   - turning typos/mistakes into valuable learning experiences
 > - After the demo, other group members give feedback on a 2x2 matrix, with 
 >   [content, presentation] on one axis and [positive, negative] on the other.
-{: .task}
+{: .challenge}
 
 > ## Design a new exercise
 > 
@@ -90,7 +90,7 @@ each lesson. Here are a few exercises that can be used for each lesson.
 >   - was it too hard or too easy?
 >   - does it relate to any intended learning outcomes for the lesson?
 >   - does it expose any possible misconceptions that learners might have?
-{: .task}
+{: .challenge}
 
 > ## Design formative assessment
 > 
@@ -99,14 +99,14 @@ each lesson. Here are a few exercises that can be used for each lesson.
 > - The formative assessment should give feedback to both learners and 
 >   instructors on whether a topic is correctly understood or if 
 >   misconceptions remain.
-{: .task}
+{: .challenge}
 
 > ## Create a concept map
 > 
 > - Choose an episode/part of the lesson you are working on and study it.
 > - Create a *concept map* of the episode, where facts are represented as 
 >   bubbles and lines between the bubbles denote their connections.
-{: .task}
+{: .challenge}
 
 ---
 
