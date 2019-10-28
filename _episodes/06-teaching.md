@@ -16,11 +16,12 @@ keypoints:
 # CodeRefinery lessons
 
 We will now split into groups and study, teach and discuss the 
-CodeRefinery lessons.
+CodeRefinery lessons. Each participant will join one group in each 
+of the three sessions.
 
 ---
 
-> ## Bad and good living coding examples
+> ## Bad and good live coding examples
 >  
 > Teaching by live coding is a 
 > [performance art which requires practice](https://teachtogether.tech/#s:performance-exercises).
@@ -43,6 +44,21 @@ CodeRefinery lessons.
 - Discussions may lead to suggestions for improvements in either lessons 
   or lesson instructor guides. These should be recorded as issues to 
   lesson repositories.
+- The format will be flexible and should be adapted to the specifics of 
+  each lesson, but a starting point can be:
+  1. The instructor gives a high-level overview of the lesson and 
+     reviews the instructor guide.
+  2. Discussion of the intended learning outcomes and lesson episode structure.
+  3. Episodes are distributed between subgroups (2-4 people), who study the 
+     material.
+  4. Within subgroups, participants study the episode, discuss it, and (if 
+     relevant) take turns to present and live-code selected parts for 3-5 
+     minutes. The other subgroup participants give feedback.
+  5. Subgroups present thoughts and conclusions to the whole group.
+  6. Steps 3-5 are repeated with a different distribution of episodes if 
+     time allows.
+  7. Instructor guide is again reviewed based on the discussions and 
+     improvements are made directly or via issues.
 
 The format will be flexible and should be adapted to the specifics of 
 each lesson, but a starting point can be:
