@@ -5,12 +5,11 @@ teaching: 15
 exercises: 255
 questions:
   - "What are CodeRefinery lessons' objectives?"
-  - "Do we fulfill our objectives?"
-  - "What improvements can we suggest to the lessons?"
-  - "How can we improve instructor's notes?"
+  - "How are the lessons taught?"
+  - "How can we improve instructor guides or lesson material?"
 objectives:
-  - "Review objectives, keypoints, and exercises to identify sections/exercises that could be optional, and to adjust timing."
-  - "Review instructor notes and add any missing information"
+  - "Review and discuss CodeRefinery lessons and instructor guides"
+  - "Practice teaching short snippets from lessons"
 keypoints:
 ---
 
@@ -18,6 +17,8 @@ keypoints:
 
 We will now split into groups and study, teach and discuss the 
 CodeRefinery lessons.
+
+---
 
 > ## Bad and good living coding examples
 >  
