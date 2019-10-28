@@ -14,6 +14,25 @@ objectives:
 keypoints:
 ---
 
+# Teaching CodeRefinery lessons
+
+We will now split into groups and study, teach and discuss the 
+CodeRefinery lessons.
+
+> ## Bad and good living coding examples
+>  
+> Teaching by live coding is a performance art which requires practice.
+> This exercise highlights some typical pitfalls that most instructors 
+> fall into sooner or later, and also shows how to avoid them. 
+> Watch closely since we will be giving feedback!
+> - Watch first [this video](https://youtu.be/bXxBeNkKmJE)
+> - Then watch [this video](https://youtu.be/SkPmwe_WjeY)
+> - How is the second round of teaching better than the first? 
+> - Is there anything that was better in the first than in the second?
+> - Please give feedback in the shared workshop document.
+{: .task}
+
+
 ## Lesson discussion
 
 > ## Exercise (3 groups)
