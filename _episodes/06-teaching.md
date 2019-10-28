@@ -119,9 +119,10 @@ We begin by discussing these lessons:
 - [Reprodubicle research](https://coderefinery.github.io/reproducible-research/)
 
 
-> ## Summary and lesson learnt
+> ## Summary and lessons learned
 > 
-> Summarize your discussions together (all groups) and discuss on how to improve the process for the next round of lesson discussions.
+> Summarize your discussions together (all groups) and discuss how to 
+> improve the process for the next round of lesson discussions.
 {: .task}
 
 ---
@@ -133,9 +134,10 @@ We begin by discussing these lessons:
 - [Social coding](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
 
 
-> ## Summary and lesson learnt
+> ## Summary and lessons learned
 > 
-> Summarize your discussions together (all groups) and discuss on how to improve the process for the next round of lesson discussions.
+> Summarize your discussions together (all groups) and discuss how to 
+> improve the process for the next round of lesson discussions.
 {: .task}
 
 ---
@@ -148,6 +150,12 @@ We begin by discussing these lessons:
 - Most popular lesson?
 
 
+> ## Summary and lessons learned.
+> 
+> Summarize your discussions together (all groups).  
+> What was valuable? What did you miss? What additional work is 
+> required before you would feel comfortable teaching a lesson?
+{: .task}
 
 
 
