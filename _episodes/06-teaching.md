@@ -60,22 +60,55 @@ of the three sessions.
   7. Instructor guide is again reviewed based on the discussions and 
      improvements are made directly or via issues.
 
-The format will be flexible and should be adapted to the specifics of 
-each lesson, but a starting point can be:
+---
 
-1. The instructor gives a high-level overview of the lesson and 
-   reviews the instructor guide
-2. Discussion of the intended learning outcomes and lesson episode structure
-3. Episodes are distributed between subgroups (2-4 people), who study the 
-   material.
-4. Within subgroups, participants study the episode, discuss it, and (if 
-   relevant) take turns to present and live-code selected parts for 3-5 minutes.
-5. Subgroups present thoughts and conclusions to the whole group.
-6. Steps 3-5 are repeated with a different distribution of episodes if 
-   time allows.
-7. Instructor guide is again reviewed based on the discussions and 
-   improvements are made directly or via issues.
 
+### Exercises
+
+Each group should engage in exercises to practice teaching or think more 
+deeply about the material, but not all exercises are equally suitable to 
+each lesson. Here are a few exercises that can be used for each lesson.
+
+> ## Live coding practice
+>
+> - Choose an episode from the lesson you are working on, and think about how 
+>   you could teach it.
+> - Teach it to your group members for 3-5 minutes using your laptop 
+>   (group members can sit next to the presenter).
+>   See if you can practice the following skills:
+>   - describing what you are doing while you type
+>   - turning typos/mistakes into valuable learning experiences
+> - After the demo, other group members give feedback on a 2x2 matrix, with 
+>   [content, presentation] on one axis and [positive, negative] on the other.
+{: .task}
+
+> ## Design a new exercise
+> 
+> - Choose an episode/part of the lesson you are working on and study it.
+> - Try to come up with an idea for a new exercise, and write it down.  
+> - Group members try out the new exercise and give feedback:
+>   - was it too hard or too easy?
+>   - does it relate to any intended learning outcomes for the lesson?
+>   - does it expose any possible misconceptions that learners might have?
+{: .task}
+
+> ## Design formative assessment
+> 
+> - Choose an episode/part of the lesson you are working on and study it.
+> - Try to come up with a *formative assessment* question/problem for this episode.
+> - The formative assessment should give feedback to both learners and 
+>   instructors on whether a topic is correctly understood or if 
+>   misconceptions remain.
+{: .task}
+
+> ## Create a concept map
+> 
+> - Choose an episode/part of the lesson you are working on and study it.
+> - Create a *concept map* of the episode, where facts are represented as 
+>   bubbles and lines between the bubbles denote their connections.
+{: .task}
+
+---
 
 ### Part 1 (90 min)
 
@@ -86,13 +119,12 @@ We begin by discussing these lessons:
 - [Reprodubicle research](https://coderefinery.github.io/reproducible-research/)
 
 
-
-
 > ## Summary and lesson learnt
 > 
 > Summarize your discussions together (all groups) and discuss on how to improve the process for the next round of lesson discussions.
 {: .task}
 
+---
 
 ### Part 2 (90 min)
 
@@ -101,13 +133,12 @@ We begin by discussing these lessons:
 - [Social coding](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
 
 
-
-
 > ## Summary and lesson learnt
 > 
 > Summarize your discussions together (all groups) and discuss on how to improve the process for the next round of lesson discussions.
 {: .task}
 
+---
 
 ### Part 3 (90 min)
 
