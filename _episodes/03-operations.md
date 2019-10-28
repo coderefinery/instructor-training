@@ -23,60 +23,54 @@ through practical aspects of organizing a workshop.
 
 > ## Workshop manuals
 > CodeRefinery maintains a number of [workshop manuals](https://github.com/coderefinery/manuals/) 
-> with practical tips and checklists. Much of the material below is covered in the manuals.
+> with practical tips and checklists. We will be refering to this material below.
 {: .callout}
 
-## Before the workshop
+## [Before the workshop](https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#before-the-workshop)
 
-#### Workshop coordinator
-
-- One person should be workshop coordinator and make sure that all the necessary preparation 
-  steps are done in a timely fashion. 
-
-#### Instructors and helpers
-
-- Recruit instructors - having at least 3 instructors is highly recommended.
-- Find 1-2 workshop helpers [with an appropriate background](https://coderefinery.org/workshop-requirements/#helpers).
-- If the workshop will be customized to the needs of a particular audience, plan which lessons 
-  you will teach.
-- Organize a meeting with all instructors and helpers to discuss the schedule, distribute 
-  lessons and plan timing. 
-- Point helpers (and instructors) to the [tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md).
-
-#### Lecture room
-
-- Start looking for an appropriate lecture room early.
-- See this [list of requirements](https://coderefinery.org/workshop-requirements/#lecture-room) for 
-  the lecture room.
-
-#### Advertising the workshop
-
-- Set up a workshop webpage (see exercise below).
-- Write an email to support@coderefinery.org to get a pre-workshop survey link and registration form on 
-  [https://indico.neic.no](https://indico.neic.no)
-- Announce the workshop via mailing lists, calendars and personal contacts. 
-- Email persons registered to the notify-me form (if relevant).
-- Maintain a waiting list.
-
-#### Communication with registered participants 
-
-- Send out practical information, including installation instructions, 2-3 weeks ahead. [Here is a template](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt).
-- Emphasize that all software should be installed before the workshop starts, and point out 
-  the [configuration problems and solutions](https://coderefinery.github.io/installation/troubleshooting/).
-
-#### Miscellaneous
-
-- Organize sticky notes, extension cables and alternative wifi options for those without Eduroam.
-- If you wish, write to support@coderefinery.org to request CodeRefinery stickers which can 
-  be handed out to participants.
-- Prepare a shared document (e.g. Google doc) with global write permissions, consider creating a memorable short-link.
-- Order coffee and refreshments for coffee breaks, if possible.
+- Select workshop coordinator
+- Instructors and helpers
+- Lecture room
+- Advertising the workshop
+- Communication with registered participants 
+- Practicals
 
 ---
 
-## Pre-workshop survey
+## [Pre-workshop survey](https://github.com/coderefinery/pre-workshop-survey)
 
-WRITEME
+It is very useful to ask future workshop participants to fill a pre-workshop survey before 
+attending a workshop. The survey should probe the participants' previous experience 
+with different tools and programming practices, which operating system the participants use 
+and what lessons they are most interested in. 
+
+The questions that are currently asked in the CodeRefinery 
+[pre-workshop survey](https://github.com/coderefinery/pre-workshop-survey)
+are the following:
+- What is the operating system that you will use during the course (on your laptop)?
+- Which version of operating system are you using? If your operating system is Linux, which distribution are you using? 
+- Are you using version control? If yes, which?
+- Which programming languages are you using or will you use in your projects?
+- Are you using automated testing in your programming project(s)?
+- Are you using code coverage analysis in your programming project(s)? These are tools and services like Gcov, Cobertura, Codecov, Coveralls, Code Climate, etc.
+- Are you employing code review in your programming project(s)?
+- Are you using the Travis or Jenkins or GitLab CI continuous integration service in your programming project(s)?
+- How do you document your code?
+- Are you using a web-based repository for your code(s)? Which ones?
+- How would you describe your programming experience?
+- How comfortable are you with the Unix/Linux command line working in a terminal window?
+- Are you using an integrated development environment (IDE) for your programming project(s)?
+- Please specify your main academic discipline. Please take the entry which is closest to your main field of study/work.
+- Please select the sessions that you are most interested in.
+- What do you expect to get from this course?
+
+> ## Discussion: Pre-workshop survey questions and results
+> 
+> - Take a moment to read the survey questions. Is there anything you would want to add? Or remove?
+> - How do you think the survey results look like for past workshops? Have a look at the
+>   [survey repository](https://github.com/coderefinery/pre-workshop-survey) which shows the 
+>   main results, and compare them with your expectations.
+{: .task}
 
 ---
 
