@@ -34,6 +34,16 @@ through practical aspects of organizing a workshop.
 - Communication with registered participants 
 - Practicals
 
+> ## Set up a workshop webpage
+>
+> 1. Go to the [workshop template repository](https://github.com/coderefinery/template-workshop-webpage). 
+> 2. Click the green "Use this template" button to import the template to your own account. 
+>    Name the new repository to include a date and a location, e.g. "2019-12-24-stockholm".
+> 3. Clone the new repository and inspect the files. Open `index.md`, update some fields and commit the changes.
+> 4. Push the commits. The workshop page should now be served on GitHub Pages
+>    (e.g., *https://username.github.io/2019-12-24-stockholm/*).
+{: .task}
+
 ---
 
 ## [Pre-workshop survey](https://github.com/coderefinery/pre-workshop-survey)
@@ -123,14 +133,5 @@ are the following:
 
 ---
 
-> ## Set up a workshop webpage
->
-> 1. Go to the [workshop template repository](https://github.com/coderefinery/template-workshop-webpage). 
-> 2. Click the green "Use this template" button to import the template to your own account. 
->    Name the new repository to include a date and a location, e.g. "2019-12-24-stockholm".
-> 3. Clone the new repository and inspect the files. Open `index.md`, update some fields and commit the changes.
-> 4. Push the commits. The workshop page should now be served on GitHub Pages
->    (e.g., *https://username.github.io/2019-12-24-stockholm/*).
-{: .challenge}
 
 
