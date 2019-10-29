@@ -4,14 +4,13 @@ title: "Running CodeRefinery workshops"
 teaching: 20
 exercises: 10
 questions:
-  - "How can you use CodeRefinery lessons?"
-  - "What are the essential steps for organizing a CodeRefinery workshop?"
+  - "What are the steps for organizing a CodeRefinery workshop?"
+  - "How should I prepare before teaching or helping in a workshop?"
 objectives:
-  - "Learn how to use CodeRefinery training material."
-  - "Discuss on how to run a CodeRefinery workshop."
+  - "Learn how to use the manuals to organize and teach a workshop."
 keypoints:
-  - "Flexibility to reuse CodeRefinery teaching materials."
-  - "Checklists for running CodeRefinery workshops."
+  - "There are many aspects to consider to deliver a successful workshop."
+  - "CodeRefinery maintains a number of manuals - use them when preparing a workshop."
 ---
 
 ## Organizing a CodeRefinery workshop
