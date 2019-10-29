@@ -85,53 +85,45 @@ are the following:
 
 ## Preparing lessons
 
-- Carefully go through the lesson material you will be teaching and think about how you 
+- Go through the lesson material you will be teaching and think about how you 
   intend to teach it, and how much time you will be spending on each episode.
-- Go through the instructor guides of the lessons you will be teaching. Try to memorize the 
-  typical pitfalls, common questions and core aspects that you should make sure to convey clearly.
-- Collaborative Git and documentation lessons require exercise repositories to be set up. 
-  For this follow the instructor guides in the lesson material.
+- Are there any unsolved issues that you can fix?
+- Go through the instructor guides of the lessons you will be teaching. 
+  - Review the intended learning outcomes, and try to keep these in mind while teaching.
+  - Try to memorize the typical pitfalls and common questions.
 - Go through the [lesson presentation hints](https://github.com/coderefinery/manuals/blob/master/presenting.md).
+- Go through the [helping and teaching guide](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md),
+  and request all helpers to go through it too.
 
 ---
 
-## During workshop
+## [During workshop](https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#during-workshop)
 
-#### Arrival 
-
-- As people arrive, emphasize to people that they need to sit with someone - don't work alone.
 - Give an introductory talk, see [https://github.com/coderefinery/workshop-intro](https://github.com/coderefinery/workshop-intro).
 - Have a 10 minute ice-breaker session where participants and instructors introduce themselves 
   and either describe their research in 2-3 sentences or what they hope to get out of the workshop.
-
-#### While teaching
-
-- Keep up interactive feel by encouraging and asking questions.
-- Keep time.
-- For presentations which have shell commands, create a cheatsheet/reference on the board in real time.
-- Remind people about sticky notes.
-- Make sure to take regular breaks (at least a short break each hour).
-- Give participants some time to also experiment (do not rush the classroom through exercises).
-- Encourage optional feedback at the end of each day on sticky notes.
-- Create GitHub issues for points which are confusing or problematic.
-- Take active part even in the lessons you're not teaching, e.g. by asking questions and (politely) interject with clarifications when you think something is confusing to the learners.
+- While teaching, keep [these tips](https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#during-workshop) in mind
+- Don't start off with tech details, say why this is important.
+- Try to [stick to the material](https://github.com/coderefinery/manuals/blob/master/presenting.md#try-to-stick-to-the-material),
+  although some excursions are useful.
+- [Wrap up](https://github.com/coderefinery/manuals/blob/master/presenting.md#wrap-up),
+  say what you taught and why, and what comes next.
 
 ---
 
 ## End of workshop
 
 - Give credit to those who contributed and helped.
-- Use [https://github.com/coderefinery/workshop-outro](https://github.com/coderefinery/workshop-outro).
+- Say some [final words](https://github.com/coderefinery/workshop-outro).
 
 ---
 
 ## Post-workshop
 
-- Process and distribute feedback (e.g. type up in shared document)
+- Process final feedback and distribute to co-instructors (e.g. type up in shared document)
 - Debrief with instructors.
 - Process certificate requests.
 
----
 
 
 
